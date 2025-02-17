@@ -1,8 +1,8 @@
 name: alice_http
 description: "Alice + HTTP integration. It contains plugin for Alice which allows to use http package."
 version: 1.0.6
-repository: https://github.com/jhomlala/alice
-homepage: https://github.com/jhomlala/alice
+repository: https://github.com/kapilatveda/alice_marsenger.git
+homepage: https://github.com/kapilatveda/alice_marsenger.git
 topics:
   - http
   - inspector
@@ -10,7 +10,7 @@ topics:
   - interceptor
 
 environment:
-  sdk: '>=3.4.1 <4.0.0'
+  sdk: ">=3.4.1 <4.0.0"
   flutter: ">=3.3.0"
 
 dependencies:

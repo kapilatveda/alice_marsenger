@@ -1,8 +1,8 @@
 name: alice_test
 description: "Test utils for Alice packages."
 version: 1.0.0
-repository: https://github.com/jhomlala/alice
-homepage: https://github.com/jhomlala/alice
+repository: https://github.com/kapilatveda/alice_marsenger.git
+homepage: https://github.com/kapilatveda/alice_marsenger.git
 publish_to: none
 
 environment:

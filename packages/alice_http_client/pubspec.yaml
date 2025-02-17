@@ -1,8 +1,8 @@
 name: alice_http_client
 description: "Alice + HTTP Client integration. It contains plugin for Alice which allows to use Http Client."
 version: 1.0.6
-repository: https://github.com/jhomlala/alice
-homepage: https://github.com/jhomlala/alice
+repository: https://github.com/kapilatveda/alice_marsenger.git
+homepage: https://github.com/kapilatveda/alice_marsenger.git
 topics:
   - http
   - inspector
