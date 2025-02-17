@@ -1,6 +1,7 @@
 name: alice
 description: Alice is an HTTP Inspector tool which helps debugging http requests. It catches and stores http requests and responses, which can be viewed via simple UI.
 version: 1.0.0-dev.12
+publish_to: none
 repository: https://github.com/kapilatveda/alice_marsenger.git
 homepage: https://github.com/kapilatveda/alice_marsenger.git
 topics:
